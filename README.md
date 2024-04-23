@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Node js**
 
-- 📫 How to reach me **sevinchbekkholboev@gmail.copm**
+- 📫 How to reach me **sevinchbekkholboev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
