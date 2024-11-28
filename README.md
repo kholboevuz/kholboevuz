@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sevinchbek</h1>
 <h3 align="center">A passionate Software developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Innagro.uz, Workflow.uz](Innagro.uz , Workflow.uz)
+- 🔭 I’m currently working on Innagro.uz, Workflow.uz
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Node js**
+- 💬 Ask me about **Node js, Next js**
 
 - 📫 How to reach me **sevinchbekkholboev@gmail.com**
 
